@@ -21,5 +21,4 @@ public class testCollectionsReverse {
 			System.out.print(string);
 		}
 	}
-
 }
