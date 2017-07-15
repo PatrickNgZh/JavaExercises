@@ -1,4 +1,4 @@
-package ScannerLine;
+package ScannerUsage;
 
 import java.util.Scanner;
 
