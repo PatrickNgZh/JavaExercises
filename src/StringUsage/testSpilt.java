@@ -1,4 +1,4 @@
-package Stringsplit;
+package StringUsage;
 
 public class testSpilt {
 
